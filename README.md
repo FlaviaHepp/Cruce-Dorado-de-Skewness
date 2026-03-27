@@ -77,3 +77,85 @@ Ideal para:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+
+📊 El precio todavía no sube… pero algo ya cambió.
+
+Y no lo vas a ver en los indicadores tradicionales.
+
+---
+
+La mayoría mira cosas como:
+
+* Cruces de medias móviles
+* RSI saliendo de sobreventa
+
+Pero hay una señal mucho más sutil:
+
+👉 La **forma de los retornos**
+
+---
+
+🔍 Lo que analicé:
+
+Casos donde:
+
+* El **skewness pasa de negativo a positivo**
+* Pero el **RSI sigue bajo (< 40)**
+
+---
+
+💡 ¿Por qué es interesante?
+
+* El RSI todavía indica debilidad
+* El precio todavía no confirma nada
+
+Pero…
+
+👉 la distribución de los retornos ya cambió
+
+---
+
+🧠 ¿Qué significa eso?
+
+* Menos eventos extremos a la baja
+* Mayor probabilidad de movimientos positivos
+* El mercado empieza a “respirar distinto”
+
+---
+
+🔥 Insight clave:
+
+Antes de que el precio suba…
+
+👉 cambia la *estructura* del mercado
+
+Y eso no lo capturan los indicadores clásicos.
+
+---
+
+🚀 Aplicaciones:
+
+* Detectar recuperaciones tempranas
+* Señales adelantadas de reversión
+* Features para modelos cuantitativos
+* Complemento a RSI y momentum
+
+---
+
+🧠 Takeaway:
+
+Si solo mirás el precio… llegás tarde.
+
+Pero si mirás la distribución de los retornos…
+
+👉 podés ver el cambio antes de que ocurra.
+
+---
+
+Estoy explorando este tipo de insights combinando SQL + análisis cuantitativo.
+
+Si te interesa este enfoque, conversemos 👇
+
+#DataScience #Quant #Finance #Trading #MachineLearning #SQL #Investing
